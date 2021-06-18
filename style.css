@@ -8,3 +8,11 @@ max-width: 300px;
 min-width: 300px;
 margin: 0 auto;
 }
+.res{
+  background-color:yellow
+}
+#output_table{
+  display: none
+}
+
+
